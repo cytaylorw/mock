@@ -1,0 +1,23 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cytaylorw/mock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cytaylorw/mock/issues"
+  },
+  "homepage": "https://github.com/cytaylorw/mock#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.3.0"
+  }
+}
